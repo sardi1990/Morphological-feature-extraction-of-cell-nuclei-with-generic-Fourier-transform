@@ -20,4 +20,6 @@ Besonders die Zeile [24](code/2d_fft.py#L24)
 
 ## Schöne Bilder
 
-![Mein Bild](bilder/Bildschirmfoto 2022-02-24 um 11.14.33.png)
+![Mein Bild](bilder/Bildschirmfoto.png)
+
+test
