@@ -1,4 +1,4 @@
-# Morphological feature extraction of cell nuclei 
+# Morphological feature extraction of cell nuclei with generic Fourier transform
 
 This project was inspired by [Wagner et al., 2019](https://ieeexplore.ieee.org/document/8856734).  
 
