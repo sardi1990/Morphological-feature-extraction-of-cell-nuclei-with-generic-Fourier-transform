@@ -1,15 +1,15 @@
 # Geometric feature extraction of cell nuclei 
 
-This project was inspired by [Wagner et al., 2019](https://ieeexplore.ieee.org/document/8856734) 
+This project was inspired by [Wagner et al., 2019](https://ieeexplore.ieee.org/document/8856734). It comes with a Jupyter Notebook  
 
 
-## Overview
+## Overview and Workflow
 
 ![Mein Bild](bilder/readme_bild.png)
 
-
-### Workflow and codes provided
-
+## I - Image preprocessing
+This section provides one example 
+##
 
 ### Data
 Biological data
