@@ -6,35 +6,13 @@ This project was inspired by [Wagner et al., 2019](https://ieeexplore.ieee.org/d
 ## Overview and Workflow
 
 ![Mein Bild](bilder/readme_bild.png)
-The whole workflow was implemented using jupyter notebook. 
 
-## I - Image preprocessing
-This section provides one example how to extract single nuclei from a labelled image. Each single nuclei image must be centered and pixel spacing taken into account.
-##
+The whole workflow is implemented using Jupyter Notebook where each section from I-IV is explained in detail.  
+
 
 ### Data
-Biological data
-- 
-- 2.
-- usw
-- ganz wichtig!
-- hallo
+There are two folders with data provided to play around:
+- Small dataset containing binary 3-D MNIST [] [LeCun et al., 1998a](https://ieeexplore.ieee.org/document/726791)
+- Dataset with single nuclei treated with treatment A and treatment B+A []
 
 
-
-[google](https://google.de)
-### Level 3
-inhalt
-## Level 2
-
-
-### Source Info
-Das wichtigste File ist: [fft ZTransform](code/2d_fft.py)
-
-Besonders die Zeile [24](code/2d_fft.py#L24)
-
-## Schöne Bilder
-
-![Mein Bild](bilder/readme_bild.png)
-
-test
