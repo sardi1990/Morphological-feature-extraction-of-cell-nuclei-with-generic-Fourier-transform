@@ -1,14 +1,15 @@
-# Geometric feature extraction of cell nuclei 
+# Morphological feature extraction of cell nuclei 
 
-This project was inspired by [Wagner et al., 2019](https://ieeexplore.ieee.org/document/8856734). It comes with a Jupyter Notebook  
+This project was inspired by [Wagner et al., 2019](https://ieeexplore.ieee.org/document/8856734).  
 
 
 ## Overview and Workflow
 
 ![Mein Bild](bilder/readme_bild.png)
+The whole workflow was implemented using jupyter notebook. 
 
 ## I - Image preprocessing
-This section provides one example 
+This section provides one example how to extract single nuclei from a labelled image. Each single nuclei image must be centered and pixel spacing taken into account.
 ##
 
 ### Data
