@@ -5,6 +5,9 @@ This project was inspired by [Wagner et al., 2019](https://ieeexplore.ieee.org/d
 
 ## Overview
 
+![Mein Bild](bilder/readme_bild.png)
+
+
 ### Workflow and codes provided
 
 
