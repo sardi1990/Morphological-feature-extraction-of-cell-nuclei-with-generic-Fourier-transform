@@ -5,7 +5,7 @@ This project was inspired by [Wagner et al., 2019](https://ieeexplore.ieee.org/d
 
 ## Overview and Workflow
 
-![Mein Bild](bilder/readme_bild.png)
+![Mein Bild](pictures/readme_bild.png)
 
 The whole workflow is implemented using Jupyter Notebook where each section from I-IV is explained in detail.  
 
