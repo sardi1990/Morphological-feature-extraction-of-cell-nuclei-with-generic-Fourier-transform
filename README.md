@@ -13,6 +13,6 @@ The whole workflow is implemented using Jupyter Notebook where each section from
 ### Data
 There are two folders with data provided to play around:
 - Small dataset containing [binary 3-D MNIST](code/3-D_MNIST), [LeCun et al., 1998a](https://ieeexplore.ieee.org/document/726791)
-- [Dataset](code/Data/) with single nuclei treated with treatment A 16h and treatment A 16h + B 1h 
+- [Dataset](code/Data/) with single nuclei from cells treated with treatment B 16h and treatment B 16h + A 1h 
 
 
